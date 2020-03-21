@@ -115,7 +115,6 @@ MR. FUNKY SAX の異名をとるダルファーとのコラボレーションを
 
 Guitar Wonder 使用ギター一覧
 
-|----|:----|:----|
 | 1 | Sunday After Casion | ギブソン・バードランド |  
 | 2 | Guitar Wonder | フェンダー・ストラトキャスター・ジェフ・ベック・モデル | 
 | 3 | Takajazz | ヤマハＳＧＴ | 
