@@ -1,10 +1,11 @@
-Guitar Wonder Collaborates with Dulfer!!
 
 Interview
 
 高中正義
 
 ---
+
+Guitar Wonder Collaborates with Dulfer!!
 
 ポップな音楽をやりたいんですね。
 
@@ -113,21 +114,22 @@ MR. FUNKY SAX の異名をとるダルファーとのコラボレーションを
 
 
 Guitar Wonder 使用ギター一覧
-----|:----|:----
-1 | Sunday After Casion | ギブソン・バードランド  
-2 | Guitar Wonder | フェンダー・ストラトキャスター・ジェフ・ベック・モデル
-3 | Takajazz | ヤマハＳＧＴ
-4 | Flight | フェンダー・ストラトキャスター・ジェフ・ベック・モデル
-5 | Senor | ヤマハＳＧＴ
-6 | アランフェス | ギブソン・チェット・アトキンス・モデル、ヤマハＳＧＴ
-7 | Pagemaster | フェンダー・ストラトキャスター・ジェフ・ベック・モデル
-8 | 星のサウダージ | フェンダー・ストラトキャスター・ジェフ・ベック・モデル、ワーナーグレイ 
-9 | Latin K | ヤマハＳＧＴ
-10 | Song For Mei | フェンダー・ストラトキャスター・ジェフ・ベック・モデル
-11 | Harley A Go Go | ヤマハＳＧＴ
-12 | Come Back To MR | ヤマハＳＧＴ
-13 | Koreya! | ヤマハＳＧＴ
-14 | More Harley | ヤマハＳＧＴ
+
+|----|:----|:----|
+| 1 | Sunday After Casion | ギブソン・バードランド |  
+| 2 | Guitar Wonder | フェンダー・ストラトキャスター・ジェフ・ベック・モデル | 
+| 3 | Takajazz | ヤマハＳＧＴ | 
+| 4 | Flight | フェンダー・ストラトキャスター・ジェフ・ベック・モデル | 
+| 5 | Senor | ヤマハＳＧＴ | 
+| 6 | アランフェス | ギブソン・チェット・アトキンス・モデル、ヤマハＳＧＴ | 
+| 7 | Pagemaster | フェンダー・ストラトキャスター・ジェフ・ベック・モデル | 
+| 8 | 星のサウダージ | フェンダー・ストラトキャスター・ジェフ・ベック・モデル、ワーナーグレイ |  
+| 9 | Latin K | ヤマハＳＧＴ | 
+| 10 | Song For Mei | フェンダー・ストラトキャスター・ジェフ・ベック・モデル | 
+| 11 | Harley A Go Go | ヤマハＳＧＴ | 
+| 12 | Come Back To MR | ヤマハＳＧＴ | 
+| 13 | Koreya! | ヤマハＳＧＴ | 
+| 14 | More Harley | ヤマハＳＧＴ | 
 
  
 
